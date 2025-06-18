@@ -2,7 +2,7 @@
 
 **Mouse Move Shadow** is a visually interactive project that adds dynamic text shadows based on the user's mouse movement. It demonstrates how to use JavaScript to create engaging, real-time UI effects that respond to user behavior.
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Mouse-Over-Shadow](https://ar-aryanrai.github.io/Mouse-Move-Shadow/)
+🌐 **Live Demo**: [Click here to visit Mouse-Over-Shadow](https://ar-aryanrai.github.io/Mouse-Move-Shadow/)
 
 ---
 
